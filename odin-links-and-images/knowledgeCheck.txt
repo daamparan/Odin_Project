@@ -1,0 +1,24 @@
+1. What element is used to create a link?
+    1a. The element that is used in hfef while using a anchor elemen. So, <a href="http://...."> </a>
+
+2. What is an attribute?
+    2a, An attribute is something that gives HMTL more information as to what the HTML element you have created is. Much like hfef denotes a link, <a href="http://....">
+
+3. What attrivute tells links where to go to?
+    3a. Hfef is what tells links where to go, only catch is that you must include http:// and denote the domain and path correctly.
+
+4. What is the different between an absolute and relative link? 
+    4a. An absolute link is a link that is outside of your website, for example google.com. Relative is something that is relative to your project/website/domain/path
+
+5. Which elemnent is used to display an image?
+    5a. img src= ..."
+    
+6. What two attributes do images always need to have?
+    6a. Images will always need to have the image src so that the image can be populated along with the alt text that will describe the image. This is just incase the image is unable or does not
+    work. This also keeps in mind assistance with user friendliness and meeting accessibility requirements. This
+
+7. How do you access a parent directory in a filepath?
+    7a. All you would need to do is denote ./ in front of your path and it will go to the parent directory of where you are located. This
+
+8. What are the four main image formats that you can use for images on the web? 
+    8a. PNG, JPEG, GIF, SVG
